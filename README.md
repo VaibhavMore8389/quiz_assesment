@@ -29,7 +29,7 @@ First, clone this repository to your local machine:
 
 git clone https://github.com/VaibhavMore8389/quiz_assesment.git
 
-cd quiz-api
+cd quiz_assesment
 
 
 2. Install Dependencies
