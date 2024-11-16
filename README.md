@@ -17,7 +17,7 @@ Details : This is a simple Quiz API built using Node.js and Express. It allows u
 ## Technologies Used
 
 Node.js (Backend)
-Express.js (Web framework)
+Express.js ( framework)
 In-memory data storage (for quizzes, questions, and results)
 ES6 Classes (for models and controllers)
 RESTful API design
@@ -25,11 +25,15 @@ RESTful API design
 
 ## Installation
 1. Clone the repository
-First, clone this repository to your local machine:
 
-git clone https://github.com/VaibhavMore8389/quiz_assesment.git
 
-cd quiz-api
+  -- First, clone this repository to your local machine:
+
+  -- git clone https://github.com/VaibhavMore8389/quiz_assesment.git
+
+  -- cd quiz_assesment
+
+
 
 
 2. Install Dependencies
